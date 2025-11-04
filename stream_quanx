@@ -1,3 +1,12 @@
+#Apple intelligent
+DOMAIN-SUFFIX,guzzoni.apple.com,Streaming
+DOMAIN-SUFFIX,*.smoot.apple.com,Streaming
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,Streaming
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Streaming
+DOMAIN-SUFFIX,cp4.cloudflare.com,Streaming
+DOMAIN-SUFFIX,apple-relay.apple.com,Streaming
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Streaming
+
 # Streaming Media
 
 # (Live)
@@ -31,14 +40,16 @@ USER-AGENT,SoundCloud*,Streaming
 DOMAIN-SUFFIX,p-cdn.us,Streaming
 DOMAIN-SUFFIX,sndcdn.com,Streaming
 DOMAIN-SUFFIX,soundcloud.com,Streaming
+
 # > Spotify
-USER-AGENT,Spotify*,Streaming
-DOMAIN-SUFFIX,pscdn.co,Streaming
-DOMAIN-SUFFIX,scdn.co,Streaming
-DOMAIN-SUFFIX,spotify.com,Streaming
-DOMAIN-SUFFIX,spoti.fi,Streaming
-DOMAIN-KEYWORD,spotify.com,Streaming
-DOMAIN-KEYWORD,-spotify-com,Streaming
+#USER-AGENT,Spotify*,Streaming
+#DOMAIN-SUFFIX,pscdn.co,Streaming
+#DOMAIN-SUFFIX,scdn.co,Streaming
+#DOMAIN-SUFFIX,spotify.com,Streaming
+#DOMAIN-SUFFIX,spoti.fi,Streaming
+#DOMAIN-KEYWORD,spotify.com,Streaming
+#DOMAIN-KEYWORD,-spotify-com,Streaming
+
 # > TIDAL
 USER-AGENT,TIDAL*,Streaming
 DOMAIN-SUFFIX,tidal.com,Streaming
@@ -89,12 +100,15 @@ DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Streaming
 DOMAIN,d27xxe7juh1us6.cloudfront.net,Streaming
 # DOMAIN,www.amazon.com,Streaming
 DOMAIN-KEYWORD,avoddashs,Streaming
+
 # > Apple Music TV
-DOMAIN,tv.applemusic.com,Streaming
+# DOMAIN,tv.applemusic.com,Streaming
+
 # > Apple TV
-DOMAIN,linear.tv.apple.com,Streaming
-DOMAIN,play-edge.itunes.apple.com,Streaming
-DOMAIN,uts-api.itunes.apple.com,Streaming
+# DOMAIN,linear.tv.apple.com,Streaming
+# DOMAIN,play-edge.itunes.apple.com,Streaming
+# DOMAIN,uts-api.itunes.apple.com,Streaming
+
 # > Bahamut
 USER-AGENT,Anime*,Streaming
 DOMAIN-SUFFIX,bahamut.com.tw,Streaming
