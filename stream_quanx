@@ -1,6 +1,6 @@
 #Apple intelligent
 DOMAIN-SUFFIX,guzzoni.apple.com,Streaming
-DOMAIN-SUFFIX,*.smoot.apple.com,Streaming
+DOMAIN-SUFFIX,smoot.apple.com,Streaming
 DOMAIN-SUFFIX,apple-relay.cloudflare.com,Streaming
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Streaming
 DOMAIN-SUFFIX,cp4.cloudflare.com,Streaming
