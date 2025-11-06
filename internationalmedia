@@ -40,7 +40,7 @@ USER-AGENT,com.apple.news*
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
+# DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
