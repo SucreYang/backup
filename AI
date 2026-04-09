@@ -51,6 +51,15 @@
    DOMAIN-SUFFIX,googleusercontent.com
    DOMAIN-SUFFIX,googleapis.com
    DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+   DOMAIN-KEYWORD,gmail
+   DOMAIN-KEYWORD,google
+   DOMAIN-SUFFIX,goo.gl
+   DOMAIN-SUFFIX,googleapis.cn
+   DOMAIN-SUFFIX,googleapis.com
+   DOMAIN-SUFFIX,gstatic.cn
+   DOMAIN-SUFFIX,gstatic.com
+   DOMAIN-SUFFIX,googletagmanager.com
+   
 
 # > JetBrains AI
    DOMAIN-SUFFIX,grazie.ai
